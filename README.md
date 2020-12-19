@@ -37,3 +37,7 @@ And for the final touch, I've added another transaction and cleared out the cons
 
 * [Github](https://github.com/Teknix420/TG-Budget-Tracker)
 * [Heroku](https://tg-budget-tracker.herokuapp.com/)
+
+## Licensing
+
+* MIT License
